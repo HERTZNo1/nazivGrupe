@@ -2,9 +2,9 @@ zagreb
 ljubljana
 
 posjeceni gradovi:
-Asti
-Cavtat
-Dubrovnik
-Edinburg
-Gospic
-Hum
+Asti 14.7
+Cavtat 15.8
+Dubrovnik 1.1
+Edinburg 18.5
+Gospic 12.9
+Hum 25.12
