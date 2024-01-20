@@ -1,2 +1,9 @@
 zagreb
 ljubljana
+
+posjeceni gradovi:
+Asti
+Cavtat
+Dubrovnik
+Gospic
+Hum
